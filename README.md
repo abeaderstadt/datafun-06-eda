@@ -1,9 +1,11 @@
 # datafun-06-eda
-# Specification for Project 6 EDA Notebook
+# Project 6 EDA Notebook
 
 ## Overview
 
-Project 6 is an opportunity to create your own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+Project 6 is an opportunity to create your own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools. In this project I will be exploring the Seaborn 'Car Crashes' dataset.
+
+https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv
 
 ---
 ## **How to Install and Run the Project**
