@@ -122,14 +122,14 @@ openpyxl
 # ======================================================
 
 # Fundamental data manipulation and analysis tools
-jupyterlab
+jupyterlab  # Enables Jupyter notebooks
 numpy
-pandas
-pyarrow
+pandas      # Handles data manipulation and analysis, focusing on structured (tabular/panel) data
+pyarrow     # Required by pandas; facilitates interaction between pandas and the Arrow format
 
 # Data visualization libraries
-matplotlib  # the foundation
-seaborn     # built on top of matplotlib
+matplotlib  # Basic tools for plotting and visualizing data
+seaborn     # Simplifies complex visualizations and statistical plots, built on matplotlib
 
 # general-purpose interactivity library
 ipywidgets  
